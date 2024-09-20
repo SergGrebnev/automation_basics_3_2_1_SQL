@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/SergGrebnev/automation_basics_3_2_1_SQL/actions/workflows/gradle.yml/badge.svg)](https://github.com/SergGrebnev/automation_basics_3_2_1_SQL/actions/workflows/gradle.yml)
+
 ## Установка сервера MySQL
 
 *(ОС: Linux Mint)*
