@@ -1,3 +1,11 @@
+// Запустить Docker Desktop
+//В терминале IDEA выполнить команду docker compose up
+//Для запуска тестируемого приложения, находясь в корне проекта,
+// выполните в терминале команду: java -jar ./artifacts/app-deadline.jar
+
+// Используется selenide
+
+
 package ru.netology.test;
 
 import org.junit.jupiter.api.*;
